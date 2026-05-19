@@ -1,5 +1,5 @@
-# Michael's Hobby Skills
-If have a obscure challenge, or task that needs to be done, and AI helps me do it, I will put the skills in this repo. 
+# Michael's Agent Security Skills
+If I have a obscure challenge, or task that needs to be done, and AI helps me do it, I will put the skills in this repo. 
 
 **Use at own risk!**
 
